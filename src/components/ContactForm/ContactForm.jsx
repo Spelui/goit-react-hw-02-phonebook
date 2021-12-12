@@ -1,4 +1,4 @@
-import { Component } from "react/cjs/react.development";
+import { Component } from "react";
 import s from "./ContactForm.module.scss";
 
 class ContactForm extends Component {
